@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpaceX Launches</string>
+    <string name="launches_title">SpaceX Launches</string>
+    <string name="details_title">Launch Details</string>
+    <string name="watch_webcast">Watch webcast</string>
+    <string name="no_webcast">No webcast available for this launch.</string>
+    <string name="retry">Retry</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="empty_launches">No launches found.</string>
+    <string name="back">Back</string>
+    <string name="patch_content_description">Launch image</string>
+    <string name="launch_date">Launch date: %1$s</string>
+</resources>
